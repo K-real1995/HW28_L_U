@@ -1,0 +1,16 @@
+// TreeNode
+digraph {
+	A [label="TreeNode со значением A"]
+	B [label="TreeNode со значением B"]
+	C [label="TreeNode со значением C"]
+	D [label="TreeNode со значением D"]
+	E [label="TreeNode со значением E"]
+	F [label="TreeNode со значением F"]
+	G [label="TreeNode со значением G"]
+	A -> B
+	A -> C
+	B -> D
+	B -> E
+	C -> F
+	C -> G
+}
